@@ -11,3 +11,5 @@
 5. Add Lambda role to S3 Bucket Policy
 6. Add layer in configuration [ffmpeg layer](https://serverlessrepo.aws.amazon.com/applications/us-east-1/145266761615/ffmpeg-lambda-layer)
 7. View logs in cloudwatch with your function name
+
+![Sample Image](./imgs/sample_img.png)
